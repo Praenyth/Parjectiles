@@ -1,0 +1,8 @@
+name: Parjectiles
+version: '${project.version}'
+main: liberal.praenyth.plugins.parjectiles.Parjectiles
+api-version: 1.19
+prefix: Parjectiles
+authors: [ Prae ]
+description: Parry projectiles
+website: https://twitter.com/praenyth
